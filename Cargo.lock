@@ -2422,6 +2422,7 @@ dependencies = [
  "chrono",
  "config",
  "log",
+ "once_cell",
  "reqwest",
  "secrecy",
  "serde",
